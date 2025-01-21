@@ -1,0 +1,15 @@
+:root {
+    
+    --sora-font: 'Sora', sans-serif;
+    --mona-sans-font: 'Mona Sans', sans-serif;
+    --inter: 'Inter', sans-serif;
+
+    --hero-image: "/assets/LandingPage/hero-section.png";
+    --linkedin-icon: "/assets/LandingPage/linkedin-icon.png";
+    --verified-badge: "/assets/LandingPage/verified-badge.png";
+
+    --primary-color: #006BFF;
+    --secondary-color: #FBFBFB;
+    --background-color: #f8f9fa;
+  }
+  
