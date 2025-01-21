@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/coach-ninja/static/css/main.1510751c.css",
+    "main.js": "/coach-ninja/static/js/main.93eee2a8.js",
+    "static/js/453.443fdc15.chunk.js": "/coach-ninja/static/js/453.443fdc15.chunk.js",
+    "static/media/hero_section.png": "/coach-ninja/static/media/hero_section.566a2cb91d79bd5c4d6e.png",
+    "index.html": "/coach-ninja/index.html",
+    "main.1510751c.css.map": "/coach-ninja/static/css/main.1510751c.css.map",
+    "main.93eee2a8.js.map": "/coach-ninja/static/js/main.93eee2a8.js.map",
+    "453.443fdc15.chunk.js.map": "/coach-ninja/static/js/453.443fdc15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1510751c.css",
+    "static/js/main.93eee2a8.js"
+  ]
+}
